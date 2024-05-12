@@ -1,6 +1,6 @@
-# home
+# RetardedRaindeer Home
 
-### links
+### Games
 
 Just Fall (https://retardedreindeer.github.io/justfall/)
 
